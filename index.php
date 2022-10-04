@@ -9,7 +9,11 @@
             <center><img src="solo.jpg" width="350px" height="150px" class="imagina"></center>
             
                 <h1>Trabalho</h1>
-                <center><p class="descr">Site de testes. 
+                <center><p class="descr">Site de testes.     
 </p>
+                 <p>Equipe: 
+                  Francisco Lucas Moreira Da Silva
+                  Linderval Moura Matias
+                  Rafael Pereira de Souza</p>
  </body>
 </html>
