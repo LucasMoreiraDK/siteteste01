@@ -12,8 +12,8 @@
                 <center><p class="descr">Site de testes.     
 </p>
                  <p>Equipe: 
-                  Francisco Lucas Moreira Da Silva
-                  Linderval Moura Matias
+                  Francisco Lucas Moreira Da Silva <br>
+                  Linderval Moura Matias <br>
                   Rafael Pereira de Souza</p>
  </body>
 </html>
